@@ -6,14 +6,8 @@
 
 ### Documentation
 
-####current
-`defaults` and `doc` folder
-
-
-####future
-
 More information about `debops.prosody` can be found in the
-[official debops.sshd documentation](http://docs.debops.org/en/latest/ansible/roles/ansible-prosody/docs/).
+[official debops.prosody documentation](http://docs.debops.org/en/latest/ansible/roles/ansible-prosody/docs/).
 
 ### Role dependencies
 
